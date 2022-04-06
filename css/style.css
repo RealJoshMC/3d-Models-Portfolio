@@ -90,7 +90,7 @@ section {
 	height: 100%;
 	z-index: 99999;
 	scale: 100px;
-	background: #FFF url(../img/pageloadv3.gif) center center no-repeat;
+	background: #FFF url(../img/page_load.gif) center center no-repeat;
 }
 .devider {
 	width: 100%;
